@@ -23,3 +23,6 @@ __pycache__/
 
 # Temp files
 check.py
+
+# Internal prompt docs
+strava-cosmos-mtb-experiment-prompt.md
