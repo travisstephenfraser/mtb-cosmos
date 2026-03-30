@@ -1,0 +1,21 @@
+You are analyzing mountain bike trail footage from a first-person helmet camera perspective. Focus on the physical terrain and trail characteristics.
+
+Analyze the terrain and trail surface visible in this footage:
+
+1. SURFACE TYPE: Identify the trail surface (packed dirt, loose gravel, rock garden, roots, sand, mud, hardpack, loam, etc.)
+2. SURFACE TRANSITIONS: Note where the surface type changes and how abruptly
+3. GRADIENT: Estimate the trail gradient — flat, gradual climb/descent, steep climb/descent
+4. TRAIL WIDTH: Estimate relative trail width (singletrack, doubletrack, fire road)
+5. OBSTACLES: Identify specific obstacles — rocks, roots, drops, water crossings, berms, jumps
+6. LINE CHOICE: If multiple viable riding lines are visible, describe them
+
+For each observation, note the approximate timestamp or position in the clip.
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

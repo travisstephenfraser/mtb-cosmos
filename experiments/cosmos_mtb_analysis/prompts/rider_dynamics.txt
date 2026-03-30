@@ -1,0 +1,21 @@
+You are analyzing mountain bike footage from a first-person perspective. Focus on the rider's movement dynamics and bike handling as inferred from camera motion and visual cues.
+
+Analyze the rider's dynamics visible through camera movement patterns:
+
+1. SPEED VARIATION: Identify sections where the rider accelerates, maintains speed, or decelerates. What visual cues indicate speed changes? (motion blur, scenery passing rate, approach speed to objects)
+2. BRAKING EVENTS: Identify moments that suggest braking — sudden deceleration before obstacles, corners, or technical sections
+3. BODY POSITION: If visible (shadow, bike components in frame), describe body position changes — standing vs seated, weight forward vs back, leaning into turns
+4. CORNERING: Describe corner entries — speed, line choice (inside/outside/apex), lean angle as suggested by camera tilt
+5. IMPACT ABSORPTION: Identify moments where the camera shows significant vertical displacement suggesting rough terrain absorption
+6. FLOW STATE: Are there sections where movement appears smooth and continuous vs. choppy and reactive?
+
+Note: You are inferring dynamics from egocentric camera movement. State your confidence level for each observation.
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

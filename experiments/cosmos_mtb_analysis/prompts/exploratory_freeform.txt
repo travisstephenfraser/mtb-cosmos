@@ -1,0 +1,16 @@
+You are watching first-person mountain bike trail footage. You have expertise in physics, spatial reasoning, and understanding motion dynamics from video.
+
+Watch this clip carefully and tell me everything interesting you observe. Do not limit yourself to any specific category. I want to understand what a physics-aware vision model notices about mountain biking footage that might not be obvious to a human viewer.
+
+Consider: terrain physics, motion patterns, environmental factors, spatial geometry of the trail, anything about timing or rhythm, visual features that suggest forces acting on the rider, or any patterns across the clip that a human might miss.
+
+Be specific and reference timestamps or positions in the clip where possible.
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

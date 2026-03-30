@@ -1,0 +1,21 @@
+This image is a cropped strip from the EDGE of a mountain bike helmet camera frame. It shows the terrain to one side of the trail, NOT the trail itself.
+
+Look at this image and answer:
+
+1. What type of terrain do you see? (flat ground, gentle slope, steep hillside, cliff, drop-off, ravine, vegetation, trees, rocks, etc.)
+2. How steep does this terrain appear? FLAT / GENTLE SLOPE / STEEP / VERY STEEP / VERTICAL
+3. If a mountain biker fell off the trail onto this terrain, what would happen?
+   - SAFE: They would land on flat or gently sloping ground
+   - RISKY: They would tumble down a moderate slope
+   - DANGEROUS: They would fall down a steep hillside or off a significant ledge
+4. How far below the trail surface does this terrain appear to drop? NONE / SLIGHT (< 3ft) / MODERATE (3-10ft) / SIGNIFICANT (10ft+) / CANNOT DETERMINE
+5. Is there any vegetation, fencing, or natural barrier between the trail edge and the drop? YES / NO
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

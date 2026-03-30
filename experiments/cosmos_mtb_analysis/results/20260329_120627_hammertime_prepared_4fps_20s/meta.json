@@ -1,0 +1,10 @@
+{
+  "clip_path": "/mnt/c/Users/tfras/projects/strava-cosmos/experiments/cosmos_mtb_analysis/test_data/prepared/hammertime_prepared_4fps_20s.mp4",
+  "clip_name": "hammertime_prepared_4fps_20s",
+  "model": "nvidia/Cosmos-Reason2-2B",
+  "categories_run": [
+    "exploratory_freeform"
+  ],
+  "total_inference_sec": 26.13,
+  "timestamp": "20260329_120627"
+}

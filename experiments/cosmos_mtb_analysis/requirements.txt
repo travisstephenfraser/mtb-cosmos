@@ -1,0 +1,16 @@
+# IMPORTANT: Install PyTorch FIRST with the nightly cu128 build (required for RTX 5070 Ti Blackwell GPU):
+#   pip install --pre torch torchvision --index-url https://download.pytorch.org/whl/nightly/cu128
+#
+# Then install the rest:
+#   pip install -r requirements.txt
+
+transformers>=5.4.0
+accelerate>=1.2.0
+huggingface-hub>=1.8.0
+qwen-vl-utils>=0.0.8
+opencv-python>=4.10.0
+ffmpeg-python>=0.2.0
+Pillow>=10.0.0
+gpxpy>=1.6.0             # For parsing Strava GPX exports
+fitparse>=1.2.0          # For parsing .FIT files from bike computers
+pandas>=2.0.0

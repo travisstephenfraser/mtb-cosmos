@@ -1,0 +1,25 @@
+# Video files (large)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+
+# Extracted frames (large)
+experiments/cosmos_mtb_analysis/test_data/prepared/
+experiments/cosmos_mtb_analysis/test_data/strips/
+experiments/cosmos_mtb_analysis/test_data/zones/
+
+# Model files
+models/
+*.bin
+*.safetensors
+*.gguf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Temp files
+check.py

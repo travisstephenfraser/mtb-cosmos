@@ -1,0 +1,34 @@
+You are analyzing first-person mountain bike footage. Answer ONLY based on what the camera motion and visual cues directly show. If something is not visible, say so.
+
+DIRECTION OF TRAVEL:
+- Is the overall direction DOWNHILL, UPHILL, or FLAT for the entire clip?
+- Are there any brief changes in pitch? If so, are they actual climbs or just terrain undulations (rollers/pumps)?
+
+SPEED:
+- Relative to objects passing in frame, is the rider moving FAST, MODERATE, or SLOW?
+- Does the speed change during the clip? If so, where does it increase or decrease?
+
+CAMERA MOTION:
+- Is the camera relatively STABLE or SHAKY throughout?
+- Are there moments of significant vertical bounce? If so, at what points?
+- Does the camera tilt left or right at any point, suggesting cornering?
+
+WHAT IS VISIBLE IN FRAME:
+- Can you see any part of the bike (handlebars, wheel, frame)? YES / NO
+- Can you see the rider's shadow? YES / NO
+- Can you see other riders or people? YES / NO
+
+TRAIL TRANSITIONS:
+- Does the trail character change during the clip? If so, describe the transition and when it occurs.
+- Is there a single consistent terrain type, or multiple?
+
+Do NOT describe forces, physics, biomechanics, or anything you cannot directly see. Only describe observable visual information.
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

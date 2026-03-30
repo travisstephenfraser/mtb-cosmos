@@ -1,0 +1,22 @@
+Look at this mountain bike trail footage carefully. Answer ONLY what you can directly observe in the video frames. If you cannot determine something, say "NOT VISIBLE" or "CANNOT DETERMINE." Do not guess or infer.
+
+1. Is the trail surface WET or DRY? (Look for: puddles, mud splatter, wet sheen on rocks, dust clouds)
+2. Is the rider going UPHILL, DOWNHILL, or FLAT? (Look for: horizon line angle, scenery movement direction)
+3. What is the primary surface material? Choose one: packed dirt / loose gravel / rock / roots / sand / mud / mixed
+4. Are there any DROPS on the trail itself (vertical ledges or features the rider rides off of)? YES or NO
+5. Are there steep DROP-OFFS or hillsides visible to either side of the trail? YES or NO. If YES, which side?
+6. Are there obstacles ON the riding line, or only OFF TO THE SIDE? Specify what and where.
+6. Estimate trail width: SINGLETRACK (one bike width) / DOUBLETRACK (two bike widths) / FIRE ROAD (wider)
+7. Is there tree canopy overhead? YES / NO / PARTIAL
+8. Can you see the sky? If yes, describe it in 5 words or fewer.
+
+For each answer, rate your confidence: HIGH (clearly visible), MEDIUM (somewhat visible), LOW (barely visible/uncertain).
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

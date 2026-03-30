@@ -1,0 +1,21 @@
+You are analyzing mountain bike trail footage to assess current trail conditions. This information would be valuable for trail reports and ride planning.
+
+Assess the trail conditions visible in this footage:
+
+1. MOISTURE: Does the trail appear dry, damp, wet, or muddy? Look for puddles, wet rock, mud splatter, dust
+2. EROSION: Are there signs of trail erosion — ruts, exposed roots, washed-out sections, loose surface material
+3. MAINTENANCE: Does the trail appear well-maintained (clear sightlines, trimmed vegetation, maintained drainage) or neglected (overgrown, debris on trail, damaged features)
+4. HAZARDS: Identify any safety hazards — blind corners, unexpected drops, loose rocks, fallen trees, exposure (cliff edges)
+5. SEASONAL INDICATORS: What season or conditions do visual cues suggest? (leaf cover, vegetation state, sun angle, ground moisture)
+6. TRAFFIC: Any signs of recent use — tire tracks, footprints, worn lines
+
+Summarize with an overall trail condition rating: Excellent / Good / Fair / Poor / Hazardous
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

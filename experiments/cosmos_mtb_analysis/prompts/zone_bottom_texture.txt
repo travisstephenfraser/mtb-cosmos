@@ -1,0 +1,36 @@
+This image is cropped from the BOTTOM portion of a mountain bike helmet camera frame. It shows the immediate ground surface directly in front of and beneath the rider's wheels.
+
+This is a close-up view of the trail surface. Answer ONLY what you see.
+
+1. GROUND MATERIAL: What do you see on the ground?
+   Choose all that apply: DIRT / GRAVEL / ROCK / ROOTS / LEAVES / SAND / MUD / GRASS / WOOD (boardwalk/bridge)
+
+2. COMPACTION: Does the surface appear COMPACTED (hard, packed down) or LOOSE (soft, easily displaced)?
+
+3. TIRE TRACKS: Are there visible tire tracks or worn lines? YES / NO
+   If YES, how many distinct lines? (1 = one common line, 2+ = multiple options)
+
+4. RUTS OR EROSION: Are there ruts, erosion channels, or water damage visible? YES / NO
+   If YES, describe briefly.
+
+5. ROOT PATTERN: If roots are visible:
+   - Are they CROSSING the trail (perpendicular) or RUNNING ALONG it (parallel)?
+   - Do they appear WET/SLIPPERY or DRY?
+   - How RAISED are they above the surface: FLUSH / SLIGHTLY RAISED / SIGNIFICANTLY RAISED
+
+6. ROCK DETAIL: If rocks are visible:
+   - Are they EMBEDDED (set in the ground) or LOOSE (sitting on top)?
+   - Approximate size: GRAVEL (<2in) / COBBLE (2-8in) / BOULDER (8in+)
+   - Surface texture: SMOOTH / ROUGH / SHARP
+
+7. TRACTION ESTIMATE: Based on what you see, would tires grip well here?
+   GOOD GRIP / MODERATE GRIP / LOW GRIP / MIXED
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

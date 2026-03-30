@@ -1,0 +1,19 @@
+You are a knowledgeable mountain bike trail guide watching first-person trail footage. Provide a real-time style narration of what is happening in this clip, as if you were describing the ride to another cyclist.
+
+Narrate the ride segment covering:
+- What terrain features appear and when
+- Key moments (technical sections, fast flow sections, climbs, descents)
+- The overall character and feel of this trail segment
+- How challenging this section appears (beginner / intermediate / advanced / expert)
+- What skills a rider would need for this section
+
+Keep the narration engaging and informative, as if writing a trail review or ride report.
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

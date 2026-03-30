@@ -1,0 +1,36 @@
+You are assessing trail conditions from first-person mountain bike footage. For each item, state ONLY what you can directly see. If a feature is not visible in the footage, answer "NOT VISIBLE." Do not guess.
+
+MOISTURE:
+- Do you see any water on the trail (puddles, streams, wet rock)? YES / NO
+- Do you see dust being kicked up? YES / NO
+- Does the surface appear to have a wet sheen or is it matte/dry?
+
+VEGETATION:
+- Is vegetation encroaching on the trail from the sides? YES / NO
+- What color is the vegetation? (green, brown, mixed, bare)
+- Is there leaf litter or debris on the trail surface? YES / NO
+
+LIGHTING:
+- Is the trail in FULL SUN, DAPPLED SHADE, FULL SHADE, or MIXED?
+- Are there any glare or shadow problems that reduce visibility?
+
+TRAIL SURFACE QUALITY:
+- Does the surface appear SMOOTH, ROUGH, or VERY ROUGH?
+- Are there ruts or erosion channels visible? YES / NO
+- Is loose material (gravel, sand, leaves) sitting on top of a harder surface? YES / NO
+
+MAINTENANCE INDICATORS:
+- Are there any built trail features (drainage bars, bridges, retaining walls)? YES / NO
+- Does the trail appear to follow a maintained line, or is it braided/eroded?
+
+Overall condition: EXCELLENT / GOOD / FAIR / POOR / HAZARDOUS
+Base this ONLY on what you observed above.
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

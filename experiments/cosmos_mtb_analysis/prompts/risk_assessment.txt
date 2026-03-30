@@ -1,0 +1,23 @@
+You are a trail safety analyst reviewing mountain bike footage from a first-person perspective. Assess risk factors visible in this clip.
+
+Evaluate risk factors:
+
+1. TERRAIN RISK: Rate the physical difficulty of the terrain (exposure, technical features, gradient)
+2. SPEED RISK: Does the rider's apparent speed seem appropriate for the terrain and visibility?
+3. VISIBILITY: Are there blind spots, blind corners, or limited sightlines?
+4. ENVIRONMENTAL: Weather conditions, lighting (shadows, sun glare), time of day
+5. FEATURE-SPECIFIC: Any individual features (drops, jumps, rock gardens) that carry elevated risk
+6. ESCAPE ROUTES: If something goes wrong, is there runout space or is the trail constrained?
+
+Rate overall segment risk: Low / Moderate / High / Extreme
+
+This is NOT about discouraging riding — it is about helping riders make informed decisions about trail features.
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

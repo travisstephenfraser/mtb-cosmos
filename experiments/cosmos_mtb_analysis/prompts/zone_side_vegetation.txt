@@ -1,0 +1,30 @@
+This image is cropped from the EDGE of a mountain bike helmet camera frame. It shows the terrain and vegetation to one side of the trail.
+
+Answer ONLY what you can directly see.
+
+1. VEGETATION TYPE: What plants or ground cover do you see?
+   Choose all that apply: TREES / BUSHES / TALL GRASS / LOW SCRUB / FERNS / BARE SOIL / ROCK / NONE
+
+2. VEGETATION DENSITY: How thick is the vegetation beside the trail?
+   DENSE (can't see through it) / MODERATE (some visibility through) / SPARSE / NONE
+
+3. ENCROACHMENT: Is vegetation growing INTO the trail space? YES / NO
+   If YES, what type and how far does it extend?
+
+4. SEASON INDICATORS: Based on vegetation color and state:
+   GREEN AND LUSH (spring/summer) / DRY AND BROWN (late summer/fall) / BARE (winter) / MIXED
+
+5. BUFFER: Is there flat ground between the trail edge and any slope or drop?
+   YES (visible flat buffer) / NO (trail edge meets slope directly) / CANNOT DETERMINE
+
+6. GROUND LEVEL: Compared to the trail surface, is the ground on this side:
+   SAME LEVEL / SLIGHTLY LOWER / SIGNIFICANTLY LOWER / HIGHER / CANNOT DETERMINE
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

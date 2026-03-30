@@ -1,0 +1,46 @@
+You are assessing trail risk from first-person mountain bike footage. Answer ONLY based on what is directly visible in the video. Do not infer or assume features that are not shown.
+
+For each risk factor, answer YES, NO, or CANNOT DETERMINE, then briefly describe what you see that supports your answer.
+
+EXPOSURE (steep terrain beside the trail):
+- Is there a steep hillside, cliff edge, or significant drop-off visible to either side of the trail? YES / NO
+- If YES, which side (left, right, both) and how close to the riding line?
+- How severe does the drop-off appear: MILD (rollable slope) / STEEP (would cause a tumble) / SEVERE (cliff/ledge)
+
+DROPS (built or natural features ON the trail that the rider rides off vertically):
+- Are there any vertical drops the rider rolls or jumps off of on the trail itself? YES / NO
+- If YES, estimate height: SMALL (<1ft) / MEDIUM (1-3ft) / LARGE (3ft+)
+
+BLIND SPOTS:
+- Are there any blind corners where the rider cannot see what is ahead? YES / NO
+- If YES, at approximately what point in the clip?
+
+TECHNICAL FEATURES:
+- Are there rock gardens (dense clusters of rocks on the trail)? YES / NO
+- Are there root sections crossing the trail? YES / NO
+- Are there built features (jumps, berms, bridges, drops)? YES / NO
+- For each YES, note the approximate timestamp.
+
+SURFACE HAZARD:
+- Is the surface loose (gravel, sand, leaves) or grippy (packed dirt, rock)?
+- Are there any surface transitions (e.g., dirt to rock) that could catch a rider off guard?
+
+SPEED CONTEXT:
+- Does the rider appear to be going FAST, MODERATE, or SLOW relative to the terrain difficulty?
+- Are there any moments where the speed seems inappropriate for what is ahead?
+
+ESCAPE:
+- If the rider needed to stop suddenly, is there room to do so? YES / NO / UNCLEAR
+- Is the trail wide enough to bail off to one side? YES / NO
+
+Overall risk rating for this segment: LOW / MODERATE / HIGH / EXTREME
+Justify in one sentence referencing only what you observed.
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

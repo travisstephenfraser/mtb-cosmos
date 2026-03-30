@@ -1,0 +1,32 @@
+This image is cropped from the TOP portion of a mountain bike helmet camera frame. It shows what is ahead of and above the rider: the horizon, canopy, sky, and distant trail.
+
+Answer ONLY what you can directly see. Say "NOT VISIBLE" if unsure.
+
+1. CANOPY: Is there tree canopy overhead?
+   NONE (open sky) / PARTIAL (some trees, some sky) / FULL (dense canopy, little sky)
+
+2. SKY CONDITION: If sky is visible, describe in 5 words or fewer. If not visible, say NOT VISIBLE.
+
+3. LIGHTING: FULL SUN / DAPPLED SHADE / FULL SHADE / MIXED (alternating sun and shade)
+
+4. SIGHTLINE: How far ahead can the rider see the trail?
+   LONG (50m+, straight or open) / MEDIUM (20-50m) / SHORT (< 20m, blocked by curve or terrain)
+
+5. BLIND CORNER: Is there a curve or bend where the rider CANNOT see what is around it? YES / NO
+   If YES, is it a LEFT turn or RIGHT turn?
+
+6. TRAIL DIRECTION: Based on what you see ahead, is the trail going:
+   STRAIGHT / CURVING LEFT / CURVING RIGHT / CANNOT DETERMINE
+
+7. GRADIENT AHEAD: Does the trail ahead appear to go:
+   DOWNHILL / UPHILL / FLAT / CANNOT DETERMINE
+   What visual cue tells you this? (horizon line position, trail disappearing over crest, etc.)
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

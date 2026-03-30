@@ -1,0 +1,20 @@
+You are a mountain bike skills coach analyzing first-person riding footage. Identify the technical skills being demonstrated or required in this trail segment.
+
+Analyze technical skill requirements:
+
+1. SKILLS DEMONSTRATED: What bike handling skills are visibly in use? (pumping, manualing, bunny hopping, wheel placement, line selection, weight shifting, braking technique)
+2. SKILLS REQUIRED: What skills would a rider need to clean this section?
+3. TECHNIQUE OBSERVATIONS: Based on camera movement patterns, comment on the rider's technique — smooth or jerky inputs, consistent or inconsistent speed management, proactive or reactive riding
+4. IMPROVEMENT OPPORTUNITIES: If the camera movement suggests areas where technique could improve, note them (e.g., "camera pitches forward sharply at 0:15 suggesting late braking into the rock garden")
+5. DIFFICULTY PROGRESSION: Does the segment ramp in difficulty or maintain a consistent level?
+
+Rate technical skill level required: Green (beginner) / Blue (intermediate) / Black (advanced) / Double Black (expert)
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>

@@ -1,0 +1,30 @@
+This image is cropped from the CENTER of a mountain bike helmet camera frame. It shows only the trail surface and immediate riding line, with the edges removed.
+
+Answer ONLY what you can directly see. Say "CANNOT DETERMINE" if unsure.
+
+1. PRIMARY SURFACE: What is the main trail surface material?
+   Choose one: PACKED DIRT / LOOSE GRAVEL / ROCK SLAB / ROCK GARDEN / ROOT NETWORK / SAND / MUD / MIXED
+   If MIXED, list the two dominant materials.
+
+2. SURFACE CONDITION: DRY / DAMP / WET / MUDDY
+
+3. TEXTURE: SMOOTH (bike tires would roll easily) / ROUGH (bumpy, uneven) / VERY ROUGH (requires active bike handling)
+
+4. LOOSE MATERIAL: Is there loose material sitting on top of a harder surface? YES / NO
+   If YES, what? (gravel on hardpack, leaves on rock, sand on dirt, etc.)
+
+5. OBSTACLES ON LINE: List any obstacles directly on the riding line:
+   - Rocks: NONE / SCATTERED SMALL / DENSE / LARGE INDIVIDUAL
+   - Roots: NONE / OCCASIONAL / DENSE CROSSING / NETWORK
+   - Other: (ruts, holes, water, debris) or NONE
+
+6. TRAIL WIDTH visible in this crop: VERY NARROW / NARROW / MODERATE / WIDE
+
+Answer the question in the following format:
+<think>
+your reasoning
+</think>
+
+<answer>
+your answer
+</answer>
